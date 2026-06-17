@@ -193,6 +193,14 @@ export const tools: Tool[] = [
     description: '字节跳动出品的企业级协作平台，AI助手加持',
     url: 'https://www.feishu.cn',
   },
+  {
+    id: '24',
+    name: 'Remio',
+    icon: '/placeholder.svg',
+    category: 'AI笔记',
+    description: '本地优先的 AI 记忆与知识库，可索引文件、网页、录音、邮件和笔记',
+    url: 'https://remio.ai/',
+  },
 
   // AI Design
   {

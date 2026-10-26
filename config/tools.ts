@@ -176,6 +176,15 @@ export const tools: Tool[] = [
     url: 'https://tongyi.aliyun.com/lingma',
   },
 
+  {
+    id: '24',
+    name: 'agent-qa',
+    icon: '/logos/agent-qa.png',
+    category: 'AI编程',
+    description: '自然语言测试 Web、Android 和 iOS，持久记忆与验证后的自我改进，支持 CLI/MCP',
+    url: 'https://vostride.com',
+  },
+
   // AI Note
   {
     id: '20',
